@@ -7,14 +7,16 @@ Original file is located at
     https://colab.research.google.com/drive/1k5VR5llMqEtPbLEUxLZFEet2FGLI3dvr
 """
 
+# The following pip command is for a local environment like Colab. Remove or comment it out
+# pip install google-generativeai streamlit 
+
 import os
 import textwrap
 import streamlit as st
 import google.generativeai as genai
 
-# Configure Gemini securely
-genai.configure(api_key=GEMINI_API_KEY)
-
+# Configure Gemini securely using Streamlit's secrets
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 # Kelly's poetic, skeptical personality prompt
 KELLY_SYSTEM_PROMPT = """
 You are Kelly, an AI Scientist and Poet.
