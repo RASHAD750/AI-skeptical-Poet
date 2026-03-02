@@ -1,19 +1,5 @@
-<p align="center">
-  <img src="a_banner_for_kelly_ai_scientist_poet_is_split.png" alt="Kelly – AI Scientist Poet Banner" width="100%">
-</p>
 
 <h1 align="center"> Kelly – AI Scientist Poet</h1>
-
-<p align="center">
-  <strong>Questioning Hype. Responding in Verse.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Powered%20By-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Model-Gemini%202.0%20Flash-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
 ---
 
