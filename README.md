@@ -2,7 +2,7 @@
   <img src="a_banner_for_kelly_ai_scientist_poet_is_split.png" alt="Kelly – AI Scientist Poet Banner" width="100%">
 </p>
 
-<h1 align="center">💡 Kelly – AI Scientist Poet</h1>
+<h1 align="center"> Kelly – AI Scientist Poet</h1>
 
 <p align="center">
   <strong>Questioning Hype. Responding in Verse.</strong>
@@ -17,7 +17,7 @@
 
 ---
 
-# 🧠 About The Project
+# About The Project
 
 **Kelly – AI Scientist Poet** is an AI-powered assistant built using Streamlit and Google Gemini API.
 
@@ -40,7 +40,7 @@ This project demonstrates:
 
 ---
 
-# 🎯 How Kelly Thinks
+#  How Kelly Thinks
 
 Each response follows a structured poetic format:
 
@@ -53,7 +53,7 @@ Kelly is designed to enlighten — not entertain.
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Powered by Gemini 2.0 Flash  
 - Structured System Prompt  
@@ -65,7 +65,7 @@ Kelly is designed to enlighten — not entertain.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - Python  
 - Streamlit  
@@ -74,7 +74,7 @@ Kelly is designed to enlighten — not entertain.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 kelly-ai-poet/
 │
@@ -85,14 +85,14 @@ kelly-ai-poet/
 
 ---
 
-# ⚙️ Installation Guide
+#  Installation Guide
 
-## 1️⃣ Clone the Repository
+## 1️. Clone the Repository
 
 git clone https://github.com/your-username/kelly-ai-poet.git  
 cd kelly-ai-poet  
 
-## 2️⃣ Install Dependencies
+## 2️. Install Dependencies
 
 pip install -r requirements.txt  
 
@@ -103,7 +103,7 @@ google-generativeai
 
 ---
 
-# 🔐 Setup Gemini API Key
+#  Setup Gemini API Key
 
 Create a folder named `.streamlit` in the root directory.
 
@@ -115,7 +115,7 @@ GEMINI_API_KEY = "your_api_key_here"
 
 ---
 
-# ▶️ Run the Application
+#  Run the Application
 
 streamlit run app.py  
 
@@ -125,7 +125,7 @@ http://localhost:8501
 
 ---
 
-# 🌍 Deployment Options
+#  Deployment Options
 
 You can deploy this application on:
 
@@ -136,7 +136,7 @@ You can deploy this application on:
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 - Add temperature control slider  
 - Add model selection option  
@@ -148,7 +148,7 @@ You can deploy this application on:
 
 ---
 
-# 🧪 Learning Outcomes
+#  Learning Outcomes
 
 This project showcases:
 
@@ -160,23 +160,3 @@ This project showcases:
 
 ---
 
-# 👨‍💻 Author
-
-Muhammed Rashad P  
-Data Enthusiast  
-Passionate about AI, Machine Learning, and Intelligent Systems  
-
----
-
-# ⭐ Support
-
-If you found this project interesting:
-
-- Star the repository  
-- Fork and experiment  
-- Share feedback  
-- Contribute improvements  
-
----
-
-💡 “In a world rushing toward AI optimism, Kelly chooses evidence over excitement.”
